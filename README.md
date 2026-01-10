@@ -1,4 +1,4 @@
-# 📊 AtliQ Hardwares – SQL to Business Insights
+# 📊 Consumer Goods Ad-Hoc Insights for Atliq Hardwares
 
 ## 🧩 About the Project
 This project is a business analytics case study based on AtliQ Hardwares (an imaginary company), completed as part of the **Codebasics Resume Project Challenge**.
